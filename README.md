@@ -20,4 +20,4 @@ February.2023 Java Mentoring
 >   - Operator
 >   - char / boolean
 >> Youtube Link
->> - https://youtu.be/MFsfF6ZrWn4
+>> - https://youtu.be/MFsfF6ZrWn4 (Section 2) - 0205
