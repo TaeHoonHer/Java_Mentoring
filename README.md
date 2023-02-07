@@ -8,4 +8,4 @@ February.2023 Java Mentoring
 
 > 강의 영상
 >- 강의 전 준비사항
->   - https://youtu.be/uF9UkrBiybM
+>   - https://youtu.be/uF9UkrBiybM (Section 1)
