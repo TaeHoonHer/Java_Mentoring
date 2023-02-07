@@ -6,9 +6,10 @@ February.2023 Java Mentoring
 - 비전공자 & 신입생 멘티 대상으로 진행
 
 
-> Course
->- Before Start
->   - https://youtu.be/uF9UkrBiybM (Section 1) - 0202
+> Before Start
+> - How to download Eclipse & JDK
+>> Youtube Link
+>>   - https://youtu.be/uF9UkrBiybM (Section 1) - 0202
 
 > Class 0205 
 >   - Number / String
