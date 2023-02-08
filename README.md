@@ -10,7 +10,7 @@ February.2023 Java Mentoring
 >> Youtube Link
 >>   - https://youtu.be/uF9UkrBiybM (Section 1) - 0202
 
-> Class 0205 
+> Day 1
 >   - Number / String
 >   - Variable
 >   - annotation / semicolon
