@@ -22,4 +22,8 @@ February.2023 Java Mentoring
 >> - https://youtu.be/MFsfF6ZrWn4 (Section 2) - 0205
 
 >Day 2
->>- 0210
+>   - Conditional Satement
+>   - Iteration
+>   - If
+>   - Switch / Case
+>   - for, while
