@@ -33,4 +33,4 @@ February.2023 Java Mentoring
 >Day 2
 >   - Array
 >> Youtube Link
->>  - 0216
+>> - https://youtu.be/3zJ47-8nW34 - 0216
