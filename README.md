@@ -29,3 +29,8 @@ February.2023 Java Mentoring
 >   - for, while
 >> Youtube Link
 >> - https://youtu.be/hbSxgoAqSdU (Section 3) - 0210
+
+>Day 2
+>   - Array
+>> Youtube Link
+>>  - 0216
